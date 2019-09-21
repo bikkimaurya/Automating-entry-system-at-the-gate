@@ -15,9 +15,6 @@ import mini.pojo.UserProfilePojo;
  */
 public class AddBusFrame extends javax.swing.JFrame {
 
-    /**
-     * Creates new form AddBusFrame
-     */
     public AddBusFrame() {
         initComponents();
       super.setIconImage(new ImageIcon(getClass().getResource("/images/LogoFinal.PNG")).getImage());    
